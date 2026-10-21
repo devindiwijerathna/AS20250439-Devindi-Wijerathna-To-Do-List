@@ -1,0 +1,22 @@
+
+
+.bg-primary, 
+.btn-primary, 
+.badge.bg-primary {
+    background-color: #0840a1 !important; 
+    border-color: ##0840a1 !important;
+}
+
+
+.btn-outline-primary {
+    color: #0840a1 !important;
+    border-color: #0840a1 !important;
+}
+
+
+.btn-outline-primary.active, 
+.btn-outline-primary:hover {
+    background-color: #0840a1 !important;
+    color: #fff !important;
+}
+
